@@ -1,0 +1,11 @@
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\bin\Debug\netcoreapp3.0\Euroval.Domain.deps.json
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\bin\Debug\netcoreapp3.0\Euroval.Domain.dll
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\bin\Debug\netcoreapp3.0\Euroval.Domain.pdb
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.dll
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.pdb
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\bin\Debug\netcoreapp3.0\Euroval.Entity.dll
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\bin\Debug\netcoreapp3.0\Euroval.Entity.pdb
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Domain\obj\Debug\netcoreapp3.0\Euroval.Domain.csproj.CopyComplete

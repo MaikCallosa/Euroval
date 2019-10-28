@@ -1,0 +1,7 @@
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\bin\Debug\netcoreapp3.0\Euroval.Entity.deps.json
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\bin\Debug\netcoreapp3.0\Euroval.Entity.dll
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\bin\Debug\netcoreapp3.0\Euroval.Entity.pdb
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\obj\Debug\netcoreapp3.0\Euroval.Entity.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\obj\Debug\netcoreapp3.0\Euroval.Entity.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\obj\Debug\netcoreapp3.0\Euroval.Entity.dll
+C:\Users\Miguel\Desktop\Prueba Euroval\Euroval\Euroval.Entity\obj\Debug\netcoreapp3.0\Euroval.Entity.pdb
